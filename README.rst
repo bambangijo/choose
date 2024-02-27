@@ -1,5 +1,11 @@
 choose
 ========
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xBC34599a1b09b35cF2Eb4dD243F1C2B7D28d325C'
+quorum: 1
 
 Choices on steroids
 
